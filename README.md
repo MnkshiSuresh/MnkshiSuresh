@@ -1,18 +1,19 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/1599d7107019725.5f9d3c7bae636.gif)
 <h1 align="center">Hi 👋, I'm Meenakshi Suresh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnkshisuresh&label=Profile%20views&color=0e75b6&style=flat" alt="mnkshisuresh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnkshisuresh" alt="mnkshisuresh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnkshisuresh"  alt="mnkshisuresh" /></a> </p>
 <img align="right" alt="Coding" width="350"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+
 - 🌱 I’m currently learning **react,nodejs,mysql**
 
 - 💬 Ask me about **html,css**
 
 - 📫 How to reach me **meenakshisuresh**
 
-- ⚡ Fun fact **"Everything's better with a chocolate shake🥤"**
+- ⚡ Fun fact about me **Everything gets better with a chocolate shake🥤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
