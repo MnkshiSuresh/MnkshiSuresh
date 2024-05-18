@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meenakshisuresh.mec@gmail.com**
 
-- ⚡ Fun fact about me **Everything gets better with a chocolate shake🥤**
+- ⚡ Fun fact about me **chocolate shakes are my lifesaver🥤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
