@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/1599d7107019725.5f9d3c7bae636.gif)
 <h1 align="center">Hi 👋, I'm Meenakshi Suresh</h1>
-<h3 align="center">A passionate computer engineering student</h3>
+<h3 align="center">A passionate Front-end developer and UI/UX designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnkshisuresh&label=Profile%20views&color=0e75b6&style=flat" alt="mnkshisuresh" /> </p>
 
