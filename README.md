@@ -7,7 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnkshisuresh"  alt="mnkshisuresh" /></a> </p>
 <img align="right" alt="Coding" width="350"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **backend, ML&AI**
+
+- 👯 I’m looking to collaborate on Projects on **Web Development, UI/UX**
+
+- 💬 Ask me about **React.js, Nest.js, UI/UX, HTML, CSS, Python**
 
 - 📫 How to reach me **meenakshisuresh.mec@gmail.com**
 
